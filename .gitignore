@@ -6,5 +6,5 @@ sites/default/dbconfig.php
 sites/default/files
 sites/default/settings.php
 README.md
-sites/all/libraries/php-getid3
-sites/drupaltest
+sites/all/libraries/getid3/
+sites/drupal-test/
